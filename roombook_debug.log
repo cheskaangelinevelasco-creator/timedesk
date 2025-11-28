@@ -1,0 +1,52 @@
+2025-11-26T17:58:47+01:00 - submit: {"Name":"cHESKA123","Email":"wralphh12@gmail.com","RoomType":"Mini Convention","cin":"2025-12-01","cout":"2025-12-31"}
+2025-11-28T03:05:39+01:00 - get_booked_ranges: room=Deluxe Room found=0
+2025-11-28T03:05:42+01:00 - get_booked_ranges: room=Guest House found=0
+2025-11-28T03:05:46+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:05:48+01:00 - get_booked_ranges: room=Deluxe Room found=0
+2025-11-28T03:08:57+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:09:12+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:09:12+01:00 - get_freebies lookup for 'Mini Convention' found=4
+2025-11-28T03:09:12+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:09:27+01:00 - get_booked_ranges: room=Ampitheater found=0
+2025-11-28T03:09:27+01:00 - get_freebies lookup for 'Ampitheater' found=5
+2025-11-28T03:09:27+01:00 - get_booked_ranges: room=Ampitheater found=0
+2025-11-28T03:09:46+01:00 - get_availability: roomParam=Ampitheater resolvedRoom=Ampitheater cin=2025-11-30 cout=2025-12-01 total=0 booked=0 available=0
+2025-11-28T03:12:48+01:00 - get_freebies lookup for 'Nieto Hall' found=5
+2025-11-28T03:12:48+01:00 - get_booked_ranges: room=Nieto Hall found=0
+2025-11-28T03:12:48+01:00 - get_booked_ranges: room=Nieto Hall found=0
+2025-11-28T03:16:00+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:16:11+01:00 - get_freebies lookup for 'Mini Convention' found=4
+2025-11-28T03:16:11+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:16:11+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:16:35+01:00 - get_freebies lookup for 'Ampitheater' found=5
+2025-11-28T03:16:35+01:00 - get_booked_ranges: room=Ampitheater found=0
+2025-11-28T03:16:35+01:00 - get_booked_ranges: room=Ampitheater found=0
+2025-11-28T03:16:37+01:00 - get_freebies lookup for 'Mini Convention' found=4
+2025-11-28T03:16:37+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:16:48+01:00 - get_freebies lookup for 'Rico Fajardo Hall' found=5
+2025-11-28T03:16:48+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:17:34+01:00 - get_freebies lookup for 'Rico Fajardo Hall' found=5
+2025-11-28T03:17:34+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:17:34+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:17:42+01:00 - get_availability: roomParam=Rico Fajardo Hall resolvedRoom=Rico Fajardo matchedTypes= cin=2025-11-01 cout=2025-11-30 total=1 booked=0 available=1
+2025-11-28T03:17:48+01:00 - get_availability: roomParam=Rico Fajardo Hall resolvedRoom=Rico Fajardo matchedTypes= cin=2025-11-01 cout=2025-11-30 total=1 booked=0 available=1
+2025-11-28T03:18:38+01:00 - get_freebies lookup for 'Rico Fajardo Hall' found=5
+2025-11-28T03:18:38+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:18:38+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:18:41+01:00 - get_freebies lookup for 'Rico Fajardo Hall' found=5
+2025-11-28T03:18:41+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:18:41+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:19:07+01:00 - get_availability: roomParam=Rico Fajardo Hall resolvedRoom=Rico Fajardo matchedTypes= cin=2025-11-29 cout=2025-11-30 total=1 booked=0 available=1
+2025-11-28T03:19:14+01:00 - get_freebies lookup for 'Rico Fajardo Hall' found=5
+2025-11-28T03:19:14+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:19:14+01:00 - get_booked_ranges: room=Rico Fajardo Hall found=0
+2025-11-28T03:19:45+01:00 - get_availability: roomParam=Rico Fajardo Hall resolvedRoom=Rico Fajardo matchedTypes= cin=2025-12-03 cout=2025-12-05 total=1 booked=0 available=1
+2025-11-28T03:23:28+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:23:38+01:00 - get_freebies lookup for 'Mini Convention' found=4
+2025-11-28T03:23:38+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:23:38+01:00 - get_booked_ranges: room=Mini Convention found=1
+2025-11-28T03:23:49+01:00 - get_availability: roomParam=Mini Convention resolvedRoom=Mini Convention matchedTypes= cin=2025-12-02 cout=2025-12-05 total=1 booked=0 available=1
+2025-11-28T03:24:02+01:00 - get_availability: roomParam=Mini Convention resolvedRoom=Mini Convention matchedTypes= cin=2025-12-02 cout=2025-12-05 total=1 booked=0 available=1
+2025-11-28T03:28:24+01:00 - get_booked_ranges: room=Mini Convention found=2
+2025-11-28T03:28:44+01:00 - get_availability: roomParam=Mini Convention resolvedRoom=Mini Convention matchedTypes= cin=2025-12-01 cout=2025-12-05 total=1 booked=0 available=1
+2025-11-28T03:29:02+01:00 - get_availability: roomParam=Rico Fajardo Hall resolvedRoom=Rico Fajardo matchedTypes= cin=2025-12-01 cout=2025-12-05 total=1 booked=0 available=1
