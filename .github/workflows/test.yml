@@ -1,0 +1,30 @@
+            - name: PHP Mess Detector (php-actions)
+  # You may pin to the exact commit or the version.
+  # uses: php-actions/phpmd@c54941512e7fcc414157514a928ba44b9d6ab7dc
+  uses: php-actions/phpmd@v2
+  with:
+    # What version of PHPMD to use
+    version: # optional, default is composer
+    # What version of PHP to use
+    php_version: # optional, default is latest
+    # Path to a vendored phpmd binary
+    vendored_phpmd_path: # optional
+    # A php source code filename or directory. Can be a comma-separated string
+    path: 
+    # A ruleset filename or a comma-separated string of rulesetfilenames
+    ruleset: 
+    # A report format
+    output: # optional, default is text
+    # rule priority threshold; rules with lower priority than this will not be used
+    minimumpriority: # optional
+    # send report output to a file; default to STDOUT
+    reportfile: # optional
+    # comma-separated string of valid source code filename extensions, e.g. php,phtml
+    suffixes: # optional
+    # comma-separated string of patterns that are used to ignore directories. Use asterisks to exclude by pattern. For example *src/foo/*.php or *src/foo/*
+    exclude: # optional
+    # also report those nodes with a @SuppressWarnings annotation
+    strict: # optional
+    # Extra arguments to pass to the phpmd binary
+    args: # optional
+          
